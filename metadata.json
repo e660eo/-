@@ -1,0 +1,6 @@
+{
+  "name": "Альпаки-Дворик",
+  "description": "Сайт контактного зоопарка «Альпаки-Дворик» в Махачкале. Уютное пространство с милыми альпаками, енотами, кроликами и другими добрыми животными.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
